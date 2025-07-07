@@ -1,3 +1,7 @@
-self.addEventListener("fetch", function (event) {
-  // No caching logic, just required for installability
+self.addEventListener('install', event => {
+  self.skipWaiting();
+});
+
+self.addEventListener('fetch', event => {
+  // Just a placeholder for PWA support
 });
