@@ -1,10 +1,11 @@
 {
-  "name": "PTC Punjabi",
-  "short_name": "PTC",
-  "start_url": "./",
+  "name": "PTC News",
+  "short_name": "PTC News",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
+  "description": "Watch PTC News live via KaroStream.",
   "icons": [
     {
       "src": "icon-192.png",
